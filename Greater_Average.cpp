@@ -1,3 +1,5 @@
+// link - https://www.codechef.com/problems/AVGPROBLEM
+
 #include <bits/stdc++.h>
 #define ll long long int
 #define all(x) x.begin(), x.end()

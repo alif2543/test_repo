@@ -1,3 +1,5 @@
+// link - https://www.codechef.com/problems/CHN15A
+
 #include <bits/stdc++.h>
 #define ll long long int
 #define all(x) x.begin(), x.end()
