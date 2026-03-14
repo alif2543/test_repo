@@ -22,7 +22,5 @@ int main()
     for(int x :pre){
         cout<<x<<" ";
     }
-    int temp=0;
-    temp=1;
     return 0;
 }
