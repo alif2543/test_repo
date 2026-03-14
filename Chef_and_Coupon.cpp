@@ -1,3 +1,5 @@
+// link - https://www.codechef.com/problems/COUPON2 //oddly specific on upper and lower case
+
 #include <bits/stdc++.h>
 #define ll long long int
 #define all(x) x.begin(), x.end()

@@ -1,3 +1,5 @@
+// link - https://codeforces.com/contest/2126/problem/B
+
 #include <bits/stdc++.h>
 #define ll long long int
 #define all(x) x.begin(), x.end()
