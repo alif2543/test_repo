@@ -22,5 +22,6 @@ int main()
     for(int x :pre){
         cout<<x<<" ";
     }
+    //n
     return 0;
 }
